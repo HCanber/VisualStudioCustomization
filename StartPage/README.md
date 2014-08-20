@@ -1,5 +1,6 @@
 # Startpage
 The normal start page in Visual Studio is rather bloated. This is a clean start page that only lists the latest projects.
+
 ![VisualStudio Start Page](readme-resources/Startpage.png)
 
 ## Install
