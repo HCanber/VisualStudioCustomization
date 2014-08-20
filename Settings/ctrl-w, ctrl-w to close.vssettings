@@ -1,0 +1,15 @@
+<UserSettings>
+	<ApplicationIdentity version="11.0"/>
+	<Category name="Environment_Group" RegisteredName="Environment_Group">
+		<Category name="Environment_KeyBindings" Category="{F09035F1-80D2-4312-8EC4-4D354A4BCB4C}" Package="{DA9FB551-C724-11d0-AE1F-00A0C90FFFC3}" RegisteredName="Environment_KeyBindings" PackageName="Visual Studio Environment Package">
+			<Version>11.0.0.0</Version>
+			<KeyboardShortcuts>
+				<UserShortcuts>
+					<RemoveShortcut Command="Edit.SelectCurrentWord" Scope="Text Editor">Ctrl+W</RemoveShortcut>
+					<RemoveShortcut Command="View.WebBrowser" Scope="Global">Ctrl+W, Ctrl+W</RemoveShortcut>
+					<Shortcut Command="Window.CloseDocumentWindow" Scope="Global">Ctrl+W, Ctrl+W</Shortcut>
+				</UserShortcuts>
+			</KeyboardShortcuts>
+		</Category>
+	</Category>
+</UserSettings>
