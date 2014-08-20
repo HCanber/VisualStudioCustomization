@@ -5,7 +5,7 @@ The normal start page in Visual Studio is rather bloated. This is a clean start 
 
 ## Install
 - Download [Clean.xaml](Clean.xaml) 
-- Copy it to `userprofile%\My Documents\Visual Studio 2013\StartPages`(It will work with Visual Studio 2012 as well)
+- Copy it to `%userprofile%\My Documents\Visual Studio 2013\StartPages` (It will work with Visual Studio 2012 as well)
 - In Visual Studio open _Tools_ > _Options_ > _Environment_ > _Startup_
 	- At Startup: **Show Start Page**
 	- Customize Start Page: Select **Clean.xaml** 
